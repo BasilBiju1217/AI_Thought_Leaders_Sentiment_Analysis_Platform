@@ -1,0 +1,24 @@
+# Python/DS Project .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+data/
+models/
+reports/
+figures/
+*.csv
+*.parquet
+*.json
+*.log
+*.db
+*.sqlite3
+env/
+.env
+.DS_Store
+*.egg-info/
+build/
+dist/
+.vscode/
+*.bak
