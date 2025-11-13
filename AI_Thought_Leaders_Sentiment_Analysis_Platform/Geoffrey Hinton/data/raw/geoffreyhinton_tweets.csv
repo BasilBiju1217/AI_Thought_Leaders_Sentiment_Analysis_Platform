@@ -1,0 +1,159 @@
+tweet_id,text,created_at,lang,user_id_hashed,retweet_count,like_count,comment_count,is_reply,is_retweet,is_quote,urls
+1978162241963802859,"I did a podcast with Jon Stewart who has always been a hero of mine. It was a lot of fun. He really wanted to understand how AI works. 
+piped.video/watch?v=jrK3PsD3…",2025-10-14 18:13:00,en,fef80054a121f531,228,1522,132,False,False,False,"[""https://piped.video/watch?v=jrK3PsD3APk""]"
+1976698311277949229,"Some generous companies in Toronto are funding three lectures on AI safety by Owain Evans on Nov 10, 11, 12.
+Tickets are $10 and are available at thehintonlectures.rsvpify.co…",2025-10-10 17:16:00,en,fef80054a121f531,87,638,60,False,False,False,"[""https://thehintonlectures.rsvpify.com/""]"
+1954736009335157124,"A major cut to the funding of the National Science Foundation would be very bad for the future of the US.
+thehill.com/opinion/technolo…",2025-08-11 02:45:00,en,fef80054a121f531,93,665,128,False,False,False,"[""https://thehill.com/opinion/technology/5439205-congress-wants-to-cut-the-smartest-investment-taxpayers-ever-made/""]"
+1931667061412921855,"There is a book on Amazon called ""Modern AI Revolution"" by Geoffrey Hinton. This is a scam. It has nothing to do with me and I wish Amazon would remove it.",2025-06-08 10:58:00,en,fef80054a121f531,377,4599,279,False,False,False,[]
+1931392616077123921,"Congratulations to @Yoshua_Bengio on launching @LawZero_ — a research effort to advance safe-by-design AI, especially as frontier systems begin to exhibit signs of self-preservation and deceptive behaviour.",2025-06-07 16:47:00,en,fef80054a121f531,183,1645,121,False,False,False,"[""https://nitter.net/Yoshua_Bengio"", ""https://nitter.net/LawZero_""]"
+1928429105780855122,I just watched a great compilation of various people's views about what is coming:,2025-05-30 12:31:00,en,fef80054a121f531,413,2051,174,False,False,True,[]
+1916916200442912980,"AGI is the most important and potentially dangerous technology of our time. OpenAI was right that this technology merits strong structures and incentives to ensure it is developed safely, and is wrong now in attempting to change these structures and incentives.
+
+We're urging the AGs to protect the public and stop this. NotForPrivateGain.org (2/2)",2025-04-28 18:03:00,en,fef80054a121f531,1839,9333,959,False,False,False,"[""http://notforprivategain.org/""]"
+1916915980246389120,"I like OpenAI’s mission of 'ensure that artificial general intelligence benefits all of humanity”, and I’d like to stop them from completely gutting it.
+I’ve signed on to a new letter to @AGRobBonta & @DE_DOJ asking them to halt the restructuring. (1/2)",2025-04-28 18:02:00,en,fef80054a121f531,924,7890,470,False,False,False,"[""https://nitter.net/AGRobBonta"", ""https://nitter.net/DE_DOJ""]"
+1916912033280262458,"Researchgate sent me a fake paper called ""The AI Health Revolution: Personalizing Care through Intelligent Case-based Reasoning"" which claims to be by me and Yann LeCun. More than one third of the citations are to Shefiu Yusuf which may mean nothing.",2025-04-28 17:46:00,en,fef80054a121f531,112,1054,59,False,False,False,[]
+1905323254127997385,I recently got a subscription to the Atlantic. Its is a great magazine.,2025-03-27 18:17:00,en,fef80054a121f531,202,3392,398,False,False,False,[]
+1896277592325714330,"I think Elon Musk should be expelled from the British Royal Society. Not because he peddles conspiracy theories and makes Nazi salutes, but because of the huge damage he is doing to scientific institutions in the US. Now let's see if he really believes in free speech.",2025-03-02 19:13:00,en,fef80054a121f531,3424,24225,2120,False,False,False,[]
+1833618540714217826,I was happy to add my name to this list of employees and alumni of AI companies. These signatories have better insight than almost anyone else into what is coming next with AI and we should heed their warnings.,2024-09-10 21:28:00,en,fef80054a121f531,234,1818,274,False,False,True,[]
+1803090561814925708,I’m excited to share that I have joined the advisory board of @cusp_ai who have today come out of stealth mode and are using cutting edge AI to tackle one of the most urgent problems we as society face: climate change.,2024-06-18 15:41:00,en,fef80054a121f531,186,2101,191,False,False,False,"[""https://nitter.net/cusp_ai""]"
+1793760928632365077,New AI safety paper in Science with a lot of authors: science.org/doi/10.1126/scie…,2024-05-23 21:48:00,en,fef80054a121f531,419,1568,119,False,False,False,"[""https://www.science.org/doi/10.1126/science.adn0117""]"
+1775933990983348564,There is a UK company called Profit Crunch Ltd that is fraudulent. They claim i am a director and use my reputation to reassure investors. They are crooks. I have nothing to do with them. They also forged my signature on an insurance certificate.,2024-04-04 17:10:00,en,fef80054a121f531,235,1771,120,False,False,False,[]
+1775148999823261836,"📰 🎉 #VayuRobotics has been named to the 2024 @CBinsights #AI 100 list in recognition of our novel tech developing AI foundation models for mobility & #robotics. We are honored to be on this list of esteemed companies. Congratulations, Team Vayu! vayurobotics.com/press-relea…",2024-04-02 13:11:00,en,fef80054a121f531,0,161,17,False,True,False,"[""https://nitter.net/search?q=%23VayuRobotics"", ""https://nitter.net/CBinsights"", ""https://nitter.net/search?q=%23AI"", ""https://nitter.net/search?q=%23robotics"", ""https://www.vayurobotics.com/press-releases/vayu-robotics-named-to-the-2024-cb-insights-ai-100-list""]"
+1744477430906073123,"The way it attends to relevant parts of the visual input seems almost human, though its attending in parallel as well as sequentially.",2024-01-08 21:53:00,en,fef80054a121f531,66,405,47,False,False,True,[]
+1729247589235597687,Someone with access to two boats should be able to recreate this and make a viral video of it. The water needs to be rough enough to disguise the wakes except when they positively interfere.,2023-11-27 21:15:00,en,fef80054a121f531,23,285,34,False,False,False,[]
+1729247587197485300,"If two boats on a similar course went by some time ago, their wakes would be small and almost parallel. Where the wakes intersect you would get an interference pattern of bigger waves alternating with smaller waves and this pattern would move sideways in an undulating fashion.",2023-11-27 21:15:00,en,fef80054a121f531,28,253,17,False,False,False,[]
+1729247585058386100,"When the sun is low and you are looking towards the sun across the water, the nearside of a steep wave looks black. So how could we get a pattern of waves that alternate between being steep and shallow and move sideways to the line of sight across the lake?",2023-11-27 21:15:00,en,fef80054a121f531,7,119,6,False,False,False,[]
+1729247583061553361,"One evening this summer, my partner and I saw the Loch Ness monster swimming in Lake Huron. It was at least 10 feet long and swam in an undulating fashion with big black humps that were each several feet long and went up and down as it moved across the lake.",2023-11-27 21:15:00,en,fef80054a121f531,89,1030,107,False,False,False,[]
+1728178632508780919,Yann LeCun thinks the risk of AI taking over is miniscule. This means he puts a big weight on his own opinion and a miniscule weight on the opinions of many other equally qualified experts.,2023-11-24 22:27:00,en,fef80054a121f531,490,4314,614,False,False,False,[]
+1721937095860633663,"Fei-Fei Li has written a book. She was the first computer vision researcher to truly understand the power of big data and her work opened the floodgates for deep learning. She delivers a clear-eyed account of the awesome potential and danger of AI.
+momentoflift.com/the-worlds-…",2023-11-07 17:06:00,en,fef80054a121f531,435,2727,72,False,False,False,"[""https://www.momentoflift.com/the-worlds-i-see""]"
+1719806327919157382,I suspect that Andrew Ng and Yann LeCun have missed the main reason why the big companies want regulations. Years ago the founder of a self-driving company told me that he liked safety regulations because if you satisfied them it reduced your legal liability for accidents.,2023-11-01 19:59:00,en,fef80054a121f531,260,2488,177,False,False,False,[]
+1719406116503707668,Andrew Ng is claiming that the idea that AI could make us extinct is a big-tech conspiracy. A datapoint that does not fit this conspiracy theory is that I left Google so that I could speak freely about the existential threat.,2023-10-31 17:28:00,en,fef80054a121f531,493,4461,355,False,False,False,[]
+1719342298507403331,"As underwriters of tomorrow’s innovations, venture capital needs a framework for responsible AI investing. Today Radical Ventures is pleased to share its Responsible AI for Startups (RAIS) framework - an open source resource for investors evaluating investments in AI technologies developed in partnership with @VectorInst. radical.vc/underwriting-resp…",2023-10-31 13:15:00,en,fef80054a121f531,0,88,7,False,True,False,"[""https://nitter.net/VectorInst"", ""https://radical.vc/underwriting-responsible-ai-venture-capital-needs-a-framework-for-ai-investing/""]"
+1717967329202491707,"New paper:
+managing-ai-risks.com
+Companies are planning to train models with 100x more computation than today’s state of the art, within 18 months. No one knows how powerful they will be. And there’s essentially no regulation on what they’ll be able to do with these models.",2023-10-27 18:11:00,en,fef80054a121f531,700,3128,159,False,False,False,"[""https://managing-ai-risks.com/""]"
+1712171602610155745,It seems to me that @VayuRobotics is addressing a great market niche and their approach has fewer ethical problems than many other AI applications. I look forward to working with @nitishsr and his team. (3/3),2023-10-11 18:21:00,en,fef80054a121f531,17,238,18,False,False,False,"[""https://nitter.net/VayuRobotics"", ""https://nitter.net/nitishsr""]"
+1712171601150529649,"@VayuRobotics is designing light, low-speed robots for local deliveries. These robots have about 1% of the kinetic energy of a 50 mph car and a much shorter stopping distance, which makes it far easier to make them safe. (2/3)",2023-10-11 18:21:00,en,fef80054a121f531,17,238,11,False,False,False,"[""https://nitter.net/VayuRobotics""]"
+1712171599636435105,"Since leaving Google, I have received many requests to join the advisory boards of start-ups and, until now, I have declined them all. However, I have decided to join as an advisor for @VayuRobotics to work with @nitishsr again. vayurobotics.com/press-relea… (1/3)",2023-10-11 18:21:00,en,fef80054a121f531,157,1904,55,False,False,False,"[""https://nitter.net/VayuRobotics"", ""https://nitter.net/nitishsr"", ""https://www.vayurobotics.com/press-releases/godfather-of-ai-geoffrey-hinton-joins-vayu-robotics-advisory-board""]"
+1705266228942770359,"Oct 4th, 4pm ET: Join AI luminaries @geoffreyhinton  and @drfeifei in conversation with Radical's @JordanJacobs10 on building responsible AI systems and how their careers intersected at one of modern AI’s key inflection points. Sign-up here: lnkd.in/gqY3yjjU",2023-09-22 17:02:00,en,fef80054a121f531,0,123,12,False,True,True,"[""https://nitter.net/geoffreyhinton"", ""https://nitter.net/drfeifei"", ""https://nitter.net/JordanJacobs10"", ""https://lnkd.in/gqY3yjjU""]"
+1672000400889638912,"The University of Toronto made a video for a non technical audience in which I explain how deep learning works, the enormous promise of this technology and some of the potential risks.  piped.video/-9cW4Gcn5WY",2023-06-22 21:55:00,en,fef80054a121f531,492,1767,78,False,False,False,"[""https://piped.video/-9cW4Gcn5WY""]"
+1654474560962457601,"Dishonest CBC headline:
+""Canada's AI pioneer Geoffrey Hinton says AI could wipe out humans. In the meantime, there's money to be made"". 
+The second sentence was said by a journalist, not me, but you wouldn't know that.",2023-05-05 13:14:00,en,fef80054a121f531,832,6388,392,False,False,False,[]
+1652993570721210372,"In the NYT today, Cade Metz implies that I left Google so that I could criticize Google. Actually, I left so that I could talk about the dangers of AI without considering how this impacts Google. Google has acted very responsibly.",2023-05-01 11:09:00,en,fef80054a121f531,2907,15255,613,False,False,False,[]
+1652214366236803073,"Wondering about how to train deep neural networks without backprop? Check out our ICLR 2023 paper: arxiv.org/abs/2210.03310
+
+Forward gradient computes gradient information from forward pass. But it is slow and noisy — it computes the directional gradient along a random weight perturbation. Gradient variance explodes with deeper and wider networks. 
+
+Our key insight is to utilize local activity perturbation and we introduce a new architecture with many local losses throughout the network so that each loss is associated with a small number of weights.
+
+Both supervised and self-supervised (contrastive) learning works. Much better than a lot of backprop-free methods on large scale problems.
+
+Joint work with @geoffreyhinton @skornblith @lrjconan
+
+Our ICLR poster will be presented on Tuesday May 2, in Kigali, Rwanda!",2023-04-29 07:32:00,en,fef80054a121f531,0,925,30,False,True,False,"[""https://arxiv.org/abs/2210.03310"", ""https://nitter.net/geoffreyhinton"", ""https://nitter.net/skornblith"", ""https://nitter.net/lrjconan""]"
+1636110447442112513,Reinforcement Learning by Human Feedback is just parenting for a supernaturally precocious child.,2023-03-15 21:01:00,en,fef80054a121f531,467,3221,125,False,False,False,[]
+1635739459764322330,Caterpillars extract nutrients which are then converted into butterflies. People have extracted billions of nuggets of understanding and GPT-4 is humanity's butterfly.,2023-03-14 20:27:00,en,fef80054a121f531,591,3144,108,False,False,False,[]
+1625105026333933568,"Nominations for the Royal Society's medals and awards close on Friday 24 February, celebrating outstanding contributions to science from individuals and teams. You don't have to be a Fellow of the Royal Society to nominate or be nominated, find out more: royalsociety.org/grants-sche…",2023-02-13 12:10:00,en,fef80054a121f531,0,100,10,False,True,False,"[""https://royalsociety.org/grants-schemes-awards/awards/nominations/?utm_source=twitter&utm_medium=social&utm_campaign=rs-social-sciprogs-medals-and-awards-nominations-2023""]"
+1616154554768162818,A huge amount of practical experience has been distilled into this great guide to tuning deep learning models.,2023-01-19 19:24:00,en,fef80054a121f531,143,852,74,False,False,True,[]
+1583498744204361737,Renjie finally got Gaussian-Bernoulli RBMs to work well.,2022-10-21 16:41:00,en,fef80054a121f531,77,600,17,False,False,True,[]
+1582170124768792576,AI is eating software. I’ve said this for a while. Why? Traditional software never improves. AI enables ‘smart’ software to learn & improve constantly. The world runs on software and AI is changing everything. Yet few people see or understand the massive AI wave on the horizon.,2022-10-18 00:42:00,en,fef80054a121f531,0,1278,94,False,True,False,[]
+1574839268064858148,"Super excited to announce that I will join the ECE department at UCSB @ucsantabarbara as an assistant professor in January, 2023! After three amazing years at @googIeresearch in New York, I will move back to California! Actively looking for students and please get in touch😀!",2022-09-27 19:11:00,en,fef80054a121f531,0,650,53,False,True,False,"[""https://nitter.net/ucsantabarbara"", ""https://nitter.net/googIeresearch""]"
+1533908809449627649,"I tried HSBC chat. Here's what they said:
+I’ll transfer you to an agent now. It could take up to 6 hours to get connected because our agents are helping other customers like you. Please feel free to log out of Online Banking, and check back later for our response. Thank you.",2022-06-06 20:28:00,en,fef80054a121f531,12,129,12,False,False,False,[]
+1533906800696770563,Does HSBC UK have any ML people?  HSBC will not comply with my written instructions to transfer money within the UK. Fraud detection says it must be authorized by high value transfers. High value transfers say they cannot authorize it. 7  hours on the phone so far. Help!,2022-06-06 20:20:00,en,fef80054a121f531,34,553,59,False,False,False,[]
+1469842971721965568,Equivariance rules!,2021-12-12 01:34:00,fr,fef80054a121f531,146,933,17,False,False,True,[]
+1462786695938465795,"Join us at @UofTCompSci! We are now hiring for tenure-stream faculty positions in multiple areas.
+
+We will start reviewing applications on December 6, and we will give full consideration to all applications submitted by January 10.
+
+Get the details: uoft.me/7jH",2021-11-22 14:15:00,en,fef80054a121f531,0,86,4,False,True,False,"[""https://nitter.net/UofTCompSci"", ""https://uoft.me/7jH""]"
+1453903951519125505,"📢📢📢 Have you ever wondered what ""capsules"" are in deep learning? For primary capsules, it is actually very very simple, and explained excellently by Weiwei in his upcoming talk at #NeurIPS21, linked below:
+
+piped.video/tUQJV2W7Z8g
+canonical-capsules.github.io
+
+Thread 🧵⬇️",2021-10-29 01:58:00,en,fef80054a121f531,0,234,8,False,True,False,"[""https://nitter.net/search?q=%23NeurIPS21"", ""https://piped.video/tUQJV2W7Z8g"", ""https://canonical-capsules.github.io/""]"
+1436444569164521476,"Canadian politicians are talking about setting up a Canadian DARPA. Tying precious research dollars to military applications is not an efficient way to innovate and will lead to obscenities like the self-healing minefield. Encourage start-ups, not the military industrial complex.",2021-09-10 21:40:00,en,fef80054a121f531,210,1805,39,False,False,False,[]
+1408822677545099275,A common argument against taking inspiration from the brain when designing neural networks is that it's like taking inspiration from feathers when designing flying machines.  Drones need blades that will not damage things they hit and can be easily repaired with a quick preen.,2021-06-26 16:21:00,en,fef80054a121f531,141,1059,36,False,False,False,[]
+1404458382686359558,Canada prides itself on being a more caring society than the US and is publicly apologetic about its past abuses. So why is it ignoring current torture in its prisons? ottawacitizen.com/opinion/do…,2021-06-14 15:19:00,en,fef80054a121f531,29,182,9,False,False,False,"[""https://ottawacitizen.com/opinion/doob-and-sprott-trudeau-should-not-tolerate-the-torture-of-prisoners-in-canada""]"
+1402300077406928897,I am excited to support @raquelutrasun as she begins her next chapter with @waabi_ai. She has been an AI pioneer for the last 20 years and will bring new thinking to an incredibly important space.,2021-06-08 16:22:00,en,fef80054a121f531,25,495,6,False,False,False,"[""https://nitter.net/Waabi_ai""]"
+1367542860782825472,"Describe coding in exactly six words.
+
+We’ll RT all the best ones.
+
+From the folks @StackOverflow:
+
+Build. Deploy. Test. Debug. Debug. Debug.
+
+#CodingIn6Words #ThursdayThoughts",2021-03-04 18:30:00,en,fef80054a121f531,0,566,491,False,True,False,"[""https://nitter.net/StackOverflow"", ""https://nitter.net/search?q=%23CodingIn6Words"", ""https://nitter.net/search?q=%23ThursdayThoughts""]"
+1365311399287808002,"I have a new paper on how to represent part-whole hierarchies in neural networks. 
+
+arxiv.org/abs/2102.12627",2021-02-26 14:42:00,en,fef80054a121f531,593,2889,45,False,False,False,"[""http://arxiv.org/abs/2102.12627""]"
+1337074521585618944,"Finding the natural parts of an object and their intrinsic coordinate frames without supervision is a crucial step in learning to parse images into part-whole hierarchies. If we start with point clouds, we can do it!",2020-12-10 16:39:00,en,fef80054a121f531,176,940,10,False,False,True,[]
+1333474402235609088,"Our new paper ""𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐩𝐚𝐫𝐭 𝐫𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐛𝐲 𝐅𝐥𝐨𝐰 𝐂𝐚𝐩𝐬𝐮𝐥𝐞𝐬"" is out arxiv.org/abs/2011.13920
+
+TL;DR: are newborns exposed to 14 million (i.e. ImageNet) labeled images? No! They learn by observing motion... in an unsupervised fashion",2020-11-30 18:14:00,en,fef80054a121f531,0,340,6,False,True,False,"[""https://arxiv.org/abs/2011.13920""]"
+1304431040728096770,"Read my latest #research on #MachineLearning applied to #DrugSideEffectsPrediction, published with @SpringerNature in @NatureComms together with my brilliant PhD student @diegogaleano05 and 
+@shantaolee and @MarkGerstein
+nature.com/articles/s41467-0…",2020-09-11 14:46:00,en,fef80054a121f531,0,222,7,False,True,False,"[""https://nitter.net/search?q=%23research"", ""https://nitter.net/search?q=%23MachineLearning"", ""https://nitter.net/search?q=%23DrugSideEffectsPrediction"", ""https://nitter.net/SpringerNature"", ""https://nitter.net/NatureComms"", ""https://nitter.net/diegogaleano05"", ""https://nitter.net/shantaolee"", ""https://nitter.net/MarkGerstein"", ""https://www.nature.com/articles/s41467-020-18305-y""]"
+1296599857638125568,"My wonderful former graduate student, Roland Memisevic, used neural networks to make a great fitness app:
+
+cnbc.com/2020/08/20/twentybn…",2020-08-21 00:07:00,en,fef80054a121f531,81,588,10,False,False,False,"[""https://www.cnbc.com/2020/08/20/twentybn-ally-microsoft-apple-amazon.html""]"
+1296466812696240131,"Source code and full talk for 𝗡𝗔𝗦𝗔: 𝗡𝗲𝘂𝗿𝗮𝗹 𝗔𝗿𝘁𝗶𝗰𝘂𝗹𝗮𝘁𝗲𝗱 𝗦𝗵𝗮𝗽𝗲 𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗶𝗼𝗻 is now available – links 👇👇
+
+Talk @ #ECCV2020 → piped.video/-6e_46VuH8U
+Project page → nasa-eccv20.github.io
+Source code → github.com/tensorflow/graphi…",2020-08-20 15:19:00,en,fef80054a121f531,0,133,2,False,True,False,"[""https://nitter.net/search?q=%23ECCV2020"", ""https://piped.video/-6e_46VuH8U"", ""http://nasa-eccv20.github.io/"", ""https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/nasa""]"
+1286006705722200064,"Do you like implicit functions to model 3D geometry?
+We show that ""Neural Articulated Shape Approximation"" improves the approximation power by over 50% ABSOLUTE!!
+
+Fast-forward of our #ECCV paper, full talk, additional material, and code comings soon.
+
+arxiv.org/abs/1912.03207",2020-07-22 18:34:00,en,fef80054a121f531,0,260,3,False,True,False,"[""https://nitter.net/search?q=%23ECCV"", ""https://arxiv.org/abs/1912.03207""]"
+1273686900285603843,"A non-linearity that works much better than ReLUs. The work described in this video might also be relevant to understanding grid cells.
+piped.video/watch?v=Q2fLWGBe…",2020-06-18 18:39:00,en,fef80054a121f531,702,2719,42,False,False,False,"[""https://piped.video/watch?v=Q2fLWGBeaiI&feature=piped.video""]"
+1273328639673806851,"I thought I had a very good idea about perceptual learning and accepted several invitations to give talks about it next week.  But I have just discovered a fatal flaw in the idea, so I am cancelling all those talks. I apologize.",2020-06-17 18:56:00,en,fef80054a121f531,392,5875,113,False,False,False,[]
+1270814602931187715,"Extrapolating the spectacular performance of GPT3 into the future suggests that the answer to life, the universe and everything is just 4.398 trillion parameters.",2020-06-10 20:26:00,en,fef80054a121f531,645,3772,64,False,False,False,[]
+1258143109344624643,My friend @Jordanjacobs10 of @RadicalVCFund asked what I thought of the @covariantAI team and technology. I told him I had made a rather small investment (I don't want to reinforce reinforcement learning) but now wished I had invested 100X more. So Radical did (and then some).,2020-05-06 21:14:00,en,fef80054a121f531,52,469,12,False,False,False,"[""https://nitter.net/JordanJacobs10"", ""https://nitter.net/radicalvcfund"", ""https://nitter.net/CovariantAI""]"
+1253517893540732928,This is a really neat way of using neural networks to get rid of polygonal meshes. The interaction of computer graphics with neural networks is really exciting.,2020-04-24 02:55:00,en,fef80054a121f531,203,945,12,False,False,True,[]
+1253515367223361542,The sequence modeling group at the Toronto lab of Google Research has some really impressive new work on generating the words in a sequence in parallel. Imputers rock!,2020-04-24 02:45:00,en,fef80054a121f531,49,213,1,False,False,True,[]
+1253513902614360065,This is really nice work,2020-04-24 02:39:00,en,fef80054a121f531,29,195,2,False,False,True,[]
+1242635161520439298,Shooting someone on Fifth Avenue and getting away with it seems like a minor indiscretion compared with killing thousands of New Yorkers by refusing to order the manufacture of ventilators.,2020-03-25 02:11:00,en,fef80054a121f531,218,1464,28,False,False,False,[]
+1242288208093818882,"I was not far off! 
+Data from @StanfordEng Professors @yicuistanford
+ & Steven Chu show #N95masks can be decontaminated without decreasing filtration efficiency using 70C heat for 30 min. Alcohol & bleach should not be used.",2020-03-24 03:12:00,en,fef80054a121f531,40,253,13,False,False,False,"[""https://nitter.net/StanfordEng"", ""https://nitter.net/yicuistanford"", ""https://nitter.net/search?q=%23N95masks""]"
+1242185432022110209,"Students at U. Toronto have a website flatten.ca/ 
+for people in the Greater Toronto Area to report symptoms of COVID-19. The reported numbers of likely positive cases and vulnerable individuals are displayed for each region defined by the first half of the postcode.",2020-03-23 20:24:00,en,fef80054a121f531,148,362,13,False,False,False,"[""https://flatten.ca/""]"
+1241924103013007362,"Data from @StanfordEng Professors 
+@yicuistanford & Steven Chu show #N95masks can be decontaminated without decreasing filtration efficiency using 70C heat for 30 min. Alcohol & bleach should not be used.   @hmkyale @DermHAG @mike_mitt  aim.stanford.edu/covid-19-ev…",2020-03-23 03:05:00,en,fef80054a121f531,0,210,14,False,True,False,"[""https://nitter.net/StanfordEng"", ""https://nitter.net/yicuistanford"", ""https://nitter.net/search?q=%23N95masks"", ""https://nitter.net/hmkyale"", ""https://nitter.net/mike_mitt"", ""https://aim.stanford.edu/covid-19-evidence-service/""]"
+1239992952144957441,"NASA: Neural Articulated Shape Approximation
+
+Representing characters and deformable shapes without polygonal meshes for 3D perception, games, ... 
+arxiv.org/pdf/1912.03207.pdf",2020-03-17 19:12:00,en,fef80054a121f531,0,339,7,False,True,False,"[""https://arxiv.org/pdf/1912.03207.pdf""]"
+1239693060763770883,"I have one N95 mask. After using, I put it in a plastic bag, wash my hands and bake at 170F for 2 hours. My guess is that a half-baked mask is better than none. I would love to know whether baking at 170F reliably kills COVID-19 and whether it degrades the filtering by the mask.",2020-03-16 23:20:00,en,fef80054a121f531,96,1080,120,False,False,False,[]
+1238524061233397760,"Happy to share that we've open-sourced both the code and pretrained models for SimCLR (a simple framework for contrastive learning of visual representations): github.com/google-research/s…
+
+joint work with @skornblith, @mo_norouzi and @geoffreyhinton.",2020-03-13 17:55:00,en,fef80054a121f531,0,262,4,False,True,False,"[""https://github.com/google-research/simclr"", ""https://nitter.net/skornblith"", ""https://nitter.net/mo_norouzi"", ""https://nitter.net/geoffreyhinton""]"
+1234926905746493440,"Organizers of data science and machine learning conferences (NeurIPS, ICML, AISTATS, ICLR, UAI, ...): Allow remote paper & poster presentations at conferences - Sign the Petition! chng.it/p8QMVkp7 via @Change",2020-03-03 19:41:00,en,fef80054a121f531,264,868,14,False,False,False,"[""http://chng.it/p8QMVkp7"", ""https://nitter.net/Change""]"
+1230592238490615816,Suppose you have cancer and you have to choose between a black box AI surgeon that cannot explain how it works but has a 90% cure rate and a human surgeon with an 80% cure rate. Do you want the AI surgeon to be illegal?,2020-02-20 20:37:00,en,fef80054a121f531,1026,4646,686,False,False,False,[]
+1228445976924475398,Unsupervised learning of representations is beginning to work quite well without requiring reconstruction.,2020-02-14 22:28:00,en,fef80054a121f531,486,1938,12,False,False,True,[]
+1194765816023199744,"We've just open-sourced the code for Stacked Capsule Autoencoders (NeurIPS '19): github.com/google-research/g…
+
+joint work with @sabour_sara, @yeewhye and @geoffreyhinton",2019-11-13 23:55:00,en,fef80054a121f531,0,645,8,False,True,False,"[""https://github.com/google-research/google-research/tree/master/stacked_capsule_autoencoders"", ""https://nitter.net/sabour_sara"", ""https://nitter.net/yeewhye"", ""https://nitter.net/geoffreyhinton""]"
+1173615478679461894,Do you need differentiable convex hulls? Take a look at our CvxNet work arxiv.org/abs/1909.05736,2019-09-16 15:11:00,en,fef80054a121f531,0,183,5,False,True,False,"[""https://arxiv.org/abs/1909.05736""]"
+1153352658608099334,This is a much better version of capsules.,2019-07-22 17:14:00,en,fef80054a121f531,518,2027,16,False,False,True,[]
+1142761360780144645,"This report on Trump's concentration camps for migrant children is absolutely horrifying.
+Conditions are unsanitary and unsafe. 
+Children, toddlers, infants are dying of purposeful neglect.
+This is a... nytimes.com/2019/06/21/us/mi…",2019-06-23 11:48:00,en,fef80054a121f531,0,217,16,False,True,False,"[""https://www.nytimes.com/2019/06/21/us/migrant-children-border-soap.html""]"
+1119795889843789824,Inman is always thought-provoking.,2019-04-21 02:51:00,en,fef80054a121f531,42,182,4,True,False,True,[]
+1110962177903640582,"The X factor:  When I was an undergrad at Kings College Cambridge, Les Valiant who won the Turing award in 2010 lived in the adjacent room on X staircase.  He just told me that Turing lived on X staircase when he was a fellow at Kings and probably wrote his 1936 paper there!",2019-03-27 17:49:00,en,fef80054a121f531,444,3352,55,False,False,False,[]
+1099057502698815488,Some new work from the brain team in Toronto @rishabh_467 @Mo_Norouzi,2019-02-22 21:25:00,en,fef80054a121f531,86,408,5,False,False,True,"[""https://nitter.net/mo_norouzi""]"
+1091383565294714880,Vector Institute is offering scholarships to top candidates applying to AI Master’s Programs.  Learn more vectorinstitute.ai/aimasters…,2019-02-01 17:11:00,en,fef80054a121f531,0,140,4,False,True,False,"[""http://vectorinstitute.ai/aimasters/""]"
+1085325734044991489,"My Coursera MOOC ""Neural Networks for Machine Learning"" was prepared in 2012 and is now seriously out of date so I have asked them to discontinue the course. But the lectures are still a good introduction to many of the basic ideas and are available at cs.toronto.edu/~hinton/cours…",2019-01-15 23:59:00,en,fef80054a121f531,491,2395,54,False,False,False,"[""https://www.cs.toronto.edu/~hinton/coursera_lectures.html""]"
+1084939865559629830,"The Google Brain team in Toronto has openings for several research scientists who have already made exceptional contributions to research on deep learning or its applications in NLP, vision, or reinforcement learning.  To apply, go to 
+careers.google.com/jobs/resu…",2019-01-14 22:26:00,en,fef80054a121f531,311,1056,23,False,False,False,"[""https://careers.google.com/jobs/results/6264190289117184""]"
