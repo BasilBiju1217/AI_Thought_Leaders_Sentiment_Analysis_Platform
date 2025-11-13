@@ -23,7 +23,6 @@ This project scrapes, processes, and analyzes social media posts from leading AI
 - Plots sentiment distributions and trends
 
 ## Credits
-Developed by [Your Name], assignment for [Course/Institution Name].  
+Developed by Basil Biju  
 See LICENSE for usage terms.
-# Ilya-Sutskever-
-Ilya Sutskever, Co-founder &amp; Chief Scientist at OpenAI, is a leading AI researcher focused on deep learning and artificial general intelligence. His work guides technical AI advancement; this project analyzes his profile and bio for key research, sentiment, and trends.
+
