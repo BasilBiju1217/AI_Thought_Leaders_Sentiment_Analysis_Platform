@@ -1,0 +1,38 @@
+# Core Python Libraries
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+plotly
+wordcloud
+
+# Browser Automation
+selenium
+playwright
+requests-html
+scrapy
+
+# NLP and Sentiment Analysis
+nltk
+spacy
+textblob
+vaderSentiment
+pattern
+flair
+
+# Advanced NLP (Optional/Bonus)
+transformers
+sentence-transformers
+gensim
+torch
+tensorflow
+
+# Utilities
+pyyaml
+
+# Testing
+pytest
+
+# If using Jupyter notebooks
+notebook
